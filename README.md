@@ -178,5 +178,5 @@ Loai E. (2026). *CRC_Atlas: A computational pipeline for single-cell analysis of
 ## 🔗 Connect
 If you have questions about the pipeline or are interested in collaboration regarding single-cell analysis:
 
-* **LinkedIn:** [Loai Eletr](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [Loai Eletr](https://linkedin.com/in/loai-eletr)
 * **Email:** `Loai.eletr65@yahoo.com`
