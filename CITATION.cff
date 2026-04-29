@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this pipeline, please cite it as below."
+authors:
+- family-names: "E."
+  given-names: "Loai"
+title: "CRC-SingleCell-Atlas: A computational pipeline for single-cell analysis of colorectal cancer and liver metastases"
+version: 1.0.0
+date-released: 2026-04-29
+url: "https://github.com/LoaiEletr/CRC-SingleCell-Atlas"

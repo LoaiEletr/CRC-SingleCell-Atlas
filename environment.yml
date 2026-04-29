@@ -1,0 +1,38 @@
+name: scrna_pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # Python
+  - python=3.11
+  - pip
+  - pip:
+    - scanpy>=1.10
+    - scvi-tools>=1.1
+    - anndata>=0.10
+    - decoupler>=1.5
+    - pydeseq2>=0.4
+    - pandas>=2.0
+    - numpy>=1.24
+    - matplotlib>=3.7
+    - seaborn>=0.12
+    - scipy>=1.10
+    - rpy2>=3.5
+    - anndata2ri>=1.2
+    - torch>=2.0
+  
+  # R packages
+  - r-base=4.5.2
+  - r-seurat>=4.0
+  - r-cellchat>=1.6
+  - r-soupx>=1.6
+  - r-scDblFinder>=1.18
+  - r-complexheatmap>=2.20
+  - r-patchwork>=1.2
+  - r-ggalluvial>=0.12
+  - r-nmf>=0.28
+  - r-reticulate>=1.40
+  - r-anndatar>=0.1
+  - bioconductor-singlecellexperiment>=1.26
+  - bioconductor-scater>=1.32
