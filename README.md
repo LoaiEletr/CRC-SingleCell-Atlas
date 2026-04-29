@@ -170,8 +170,7 @@ python scripts/02_integration.py
 
 ## 📝 Citation
 
-
-Loai E. (2026). *CRC_Atlas: A computational pipeline for single-cell analysis of colorectal cancer and liver metastases.*
+E., L. (2026). CRC-SingleCell-Atlas: A computational pipeline for single-cell analysis of colorectal cancer and liver metastases (Version 1.0.0) [Computer software]. https://github.com/LoaiEletr/CRC-SingleCell-Atlas
 
 ---
 
